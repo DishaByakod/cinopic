@@ -1,0 +1,79 @@
+body {
+  margin: 0px;
+}
+#page1 {
+  position: relative;
+  text-align: center;
+}
+.topimage {
+  width: 100%;
+  text-align: center;
+}
+.logo {
+  position: fixed;
+  right: 1%;
+  top: 1%;
+  width: 100px;
+}
+.logo2 {
+  text-align: center;
+  width: 30%;
+}
+ul {
+  color: white;
+  position: absolute;
+  z-index: 1;
+  list-style-type: none;
+  margin: 30px;
+}
+li {
+  margin: 30px;
+}
+.abel-regular {
+  font-family: "Abel", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.carousel {
+  z-index: -1;
+}
+.carousel-item {
+  transition: transform 0.5s ease, opacity 0.1s ease-out;
+}
+video {
+  width: 9.7%;
+  display: inline;
+  height: 330px;
+}
+hr {
+  border-top-color: black;
+  border-top-width: medium;
+  margin: 5%;
+  opacity: 1;
+  clear: both;
+}
+.page3 {
+  text-align: center;
+  margin: 5%;
+}
+.dp {
+  float: left;
+  width: 25%;
+  margin: 0% 5%;
+}
+p {
+  text-align: left;
+  margin-right: 5%;
+}
+footer {
+  text-align: left;
+  margin: 0% 70% 0% 5%;
+}
+#hww {
+  float: right;
+  width: 25%;
+  margin: 0% 5% 5% 5%;
+}
+#hww0 {
+  margin: 0% 5%;
+}
